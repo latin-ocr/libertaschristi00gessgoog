@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./libertaschristi00gessgoog_0009.png"; bbox 0 0 875 1146; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 239 1010 873 1066">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 239 1010 873 1066">
+     <span class='ocr_line' id='line_1_1' title="bbox 239 1010 800 1066; baseline 0.004 -8"><span class='ocrx_word' id='word_1_1' title='bbox 239 1040 242 1041; x_wconf 43' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 283 1030 340 1053; x_wconf 47' lang='lat' dir='ltr'>*aa</span> <span class='ocrx_word' id='word_1_3' title='bbox 365 1032 451 1066; x_wconf 56' lang='lat' dir='ltr'>³:qu</span> <span class='ocrx_word' id='word_1_4' title='bbox 797 1010 800 1012; x_wconf 24' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 384 1031 873 1066; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 384 1064 386 1066; x_wconf 75' lang='grc'>,</span> <span class='ocrx_word' id='word_1_6' title='bbox 768 1037 772 1042; x_wconf 78' lang='lat'><em>*</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 871 1031 873 1046; x_wconf 36' lang='grc' dir='ltr'><strong>ι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 299 1065 516 1114">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 286 1065 516 1125">
+     <span class='ocr_line' id='line_1_3' title="bbox 299 1065 516 1114; baseline -0.013 -0.17"><span class='ocrx_word' id='word_1_8' title='bbox 297 1072 435 1114; x_wconf 53' lang='grc' dir='ltr'>«οςῑὶῖ</span> <span class='ocrx_word' id='word_1_9' title='bbox 441 1088 469 1114; x_wconf 51' lang='grc' dir='ltr'>3η</span> <span class='ocrx_word' id='word_1_10' title='bbox 478 1065 516 1112; x_wconf 51' lang='lat'>03.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
